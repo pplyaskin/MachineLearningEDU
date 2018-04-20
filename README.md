@@ -1,1 +1,2 @@
 # MachineLearningEDU
+Education ML projects
